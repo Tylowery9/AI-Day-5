@@ -1,0 +1,10 @@
+{
+    "intro" : "I am the major ID system.",
+    "q1" : "What is your favorite subject?",
+    "q2" : "Is it based on science?",
+    "conclusion" : "It looks like you have a",
+    "not_found" : "I do not recognize that major. Please tell me what it is.",
+    "repeat" : "Do you want to go again?",
+    "farewell" : "Goodbye.",
+    "contribution" : "Thank you for the contribution."
+}
